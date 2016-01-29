@@ -6,7 +6,7 @@ The project comes from a collaboration between the Department of Information Eng
 
 For any enquiries, please contact Gaia Rizzo, Mattia Veronese or Paul Expert.
 
-Software: http://fair.dei.unipd.it/require-software and http://www.nitrc.org/projects/menga/
+<b>Note: the genomic database is too heavy to be shared on GitHub. Please find it at: http://fair.dei.unipd.it/require-software or http://www.nitrc.org/projects/menga/ or https://figshare.com/articles/MENGA_2_0/2068077 </b>
 
 Image data can be found in the figshare repository (dopamine PET and SPET images, https://figshare.com/articles/Image_data/2068011; MR-based water content, https://figshare.com/articles/MR_based_absolute_myelin_water_image/2068047; serotonin and dopamine D2 PET images: https://figshare.com/articles/Serotonin_and_dopamine_D2_PET_images/2068044).
 
