@@ -1,7 +1,7 @@
 # MENGA
 Multimodal Environment for Neuroimaging and Genomic Analysis (MENGA) is a platform for the integration of imaging data and Allen Human Brain Atlas mRNA data. MENGA aims to provide a comprehensive environment to investigate correlation patterns between various imaging modalities and gene expression profiles based on the Allen Brain Atlas.
 
-<b>This is the new version (MENGA 3.1), that includes two independent adds-on to use with MENGA (MENGA_GENE_EXPRESSION and MENGA_GENOMIC_PLOT).  </b>
+<b>This is the new version (MENGA 3.1), that includes two independent adds-on to use with MENGA (MENGA_GENE_EXPRESSION and MENGA_GENOMIC_PLOT).</b>
 Briefly, the first add-on extracts mRNA data in log2 values in case one wants to analyse only transcriptome data; the second extracts mRNA data in linear scale to be used to implement the <b><i>genomic plot</b></i> (<i>doi: 10.1016/j.neuroimage.2016.01.058</i>). 
 
 Therefore, the processed ABA database has remained the same: if you already have downloaded MENGA 3.0, you just need to download the updated code (code_MENGA_31.zip) and the updated manual.
